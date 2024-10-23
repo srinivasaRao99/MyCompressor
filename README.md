@@ -23,7 +23,10 @@ MyCompressor is a simple command-line file compression tool built in C++ using m
 ## Build Instructions
 
 To build the project using Makefile, run:
+```
 make
-
+```
 To clean up:
+```
 make clean
+```
