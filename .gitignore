@@ -1,0 +1,31 @@
+# Ignore build files
+*.exe
+*.o
+*.obj
+*.out
+
+# Ignore intermediate files
+*.d
+*.pdb
+*.idb
+*.ilk
+*.log
+*.map
+
+# Ignore IDE-specific files
+.vscode/
+*.sln
+*.user
+*.suo
+*.db
+*.opendb
+*.iws
+
+# Ignore dependency files
+*.dSYM/
+*.zip
+
+# Ignore output directories
+/build/
+bin/
+obj/
